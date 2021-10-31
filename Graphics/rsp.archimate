@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="business_model" id="id-c6dd57fc72894e2c87956c9c6b5ad8e2" version="4.6.0">
+  <folder name="Strategy" id="id-d917a82446e44c52838e21fe44706629" type="strategy">
+    <element xsi:type="archimate:Capability" name="Capability" id="id-075ce4f2f22a4e68a09cbbc16b5a4246"/>
+  </folder>
+  <folder name="Business" id="id-de2cdbdf69304a958c81aff6d498acc2" type="business">
+    <element xsi:type="archimate:BusinessCollaboration" name="Business Collaboration" id="id-d6aea42e15bb47ab8561ed84287a9178">
+      <documentation>vbnbxcy&#xD;
+cyxcy</documentation>
+    </element>
+    <element xsi:type="archimate:Representation" name="Representation" id="id-e4c9b08c1ca74a69a4d5538e542d3928"/>
+    <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-b5aae53fe2ff41c58bc732fcc40481fe">
+      <property/>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="Business Actor (copy)" id="id-cf46cba6e6c84e01b9c51f68d6d4f3fb">
+      <property/>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="Business Actor (copy)" id="id-9e576649ed5c4344879f80dd4e2c9346">
+      <property/>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="Business Actor (copy)" id="id-2a9a63e2d0584a8c8c0c8170d31d156b">
+      <property/>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="Business Actor (copy)" id="id-d215755b92a849b682cb3f48f1fcd32a">
+      <property/>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="Business Actor (copy)" id="id-3592cde752ed49519cefdf2236587fa7">
+      <property/>
+    </element>
+    <element xsi:type="archimate:BusinessCollaboration" name="Key Partners" id="id-6e407a3fa8e04002baaeb44a8c15017b"/>
+    <element xsi:type="archimate:BusinessInteraction" name="Customer relationship" id="id-9cd1117b38fe4efd978863fb8369adc0"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-7a6a873dd94e496fa66e14b976408a42"/>
+    <element xsi:type="archimate:Contract" name="Contract" id="id-2f4f0422f315423aa670760b00c6d631"/>
+    <element xsi:type="archimate:BusinessEvent" name="Business Event" id="id-df38ac0efea742a2803773a6be3dd82d"/>
+    <element xsi:type="archimate:BusinessObject" name="Key Activities" id="id-b3df82b72c8d4c2cb16276fff3aa3558"/>
+    <element xsi:type="archimate:BusinessObject" name="Key Resources" id="id-0d54a26df48642d8a840fdb3e6ea6f5b"/>
+    <element xsi:type="archimate:BusinessObject" name="Value proposition" id="id-f2716de6b8f7409c9a1b40ea3ebe53a2"/>
+    <element xsi:type="archimate:BusinessObject" name="Value proposition" id="id-608f252197f94f4e8e6a55a6637e47cd"/>
+    <element xsi:type="archimate:BusinessObject" name="Channels" id="id-c28fc2df363a4111b49aae0615bc529d"/>
+    <element xsi:type="archimate:BusinessRole" name="Customer segment and bussiness role" id="id-23a3229a249046108e906c4660a52ed7"/>
+    <element xsi:type="archimate:BusinessObject" name="Revenue Streams" id="id-67fe7a3ebc2144a287be7f59c0b0a061"/>
+    <element xsi:type="archimate:BusinessObject" name="Business Object" id="id-9b990f965bc24e54905ca9def5c0b796"/>
+    <element xsi:type="archimate:BusinessObject" name="Cost structure" id="id-2b92391ff8fe4c0fa798d6ceb19d684b"/>
+  </folder>
+  <folder name="Application" id="id-88b5987fb43d481bb0415ba9d1ce2b7e" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-171456d71e95484aa60a4cacfbcde4c8" type="technology">
+    <element xsi:type="archimate:Node" name="Node" id="id-5ded4d94d0d8498db7856c5dc5b60274"/>
+  </folder>
+  <folder name="Motivation" id="id-4909c436cc424750be127b2d8df36672" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-f7452bbd713749759ef2d712a29e810a" type="implementation_migration"/>
+  <folder name="Other" id="id-a0d2f3a74a3f496f8c396658aa815562" type="other"/>
+  <folder name="Relations" id="id-445b7991a780495a9ceb0c3e54899062" type="relations"/>
+  <folder name="Views" id="id-ab1f25195a054b81822325cc7aff6835" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-4bee39c027574f8eaa0266d8307cc40e">
+      <child xsi:type="archimate:DiagramObject" id="id-e200fa8865774cf385a78142ffc17009" archimateElement="id-6e407a3fa8e04002baaeb44a8c15017b">
+        <bounds x="252" y="84" width="157" height="289"/>
+        <child xsi:type="archimate:DiagramObject" id="id-e736ba9b4897421f84f186d3ea939acc" archimateElement="id-9b990f965bc24e54905ca9def5c0b796">
+          <bounds y="288" width="469" height="85"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-c8bbe81a8822426ebb71236f0a6261e1" textAlignment="1">
+          <bounds x="24" y="48" width="121" height="217"/>
+          <content>VŠPJ Jihlava&#xD;
+materiály použitelné pro naší aplikaci (např.:obrázky, loga, ..,)</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-f4e7548726c14b85b6ec6f560ebf0a02" archimateElement="id-9cd1117b38fe4efd978863fb8369adc0">
+        <bounds x="720" y="84" width="193" height="157"/>
+        <child xsi:type="archimate:Note" id="id-aac460ee95d74a2f844a534dbda697e6" textAlignment="1">
+          <bounds x="24" y="36" width="157" height="97"/>
+          <content>je očekávána kontrola zákazníkem prostřednictvím určitých konzultací, odesílání rozpracovaného software a aktualizace a vývoj aplikace za jeho tvorby</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-875d9bbff0e245d99f4cd174493874e2" archimateElement="id-b3df82b72c8d4c2cb16276fff3aa3558">
+        <bounds x="408" y="84" width="145" height="145"/>
+        <child xsi:type="archimate:DiagramObject" id="id-5d1d3d981ec640d79749708a17b50602" archimateElement="id-f2716de6b8f7409c9a1b40ea3ebe53a2">
+          <bounds x="144" width="145" height="289"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-e6642205169249dda5a77e37edaa40a3" textAlignment="1">
+          <bounds x="12" y="36" width="121" height="97"/>
+          <content>klíčové činnosti jsou fungující aplikace obsahující přihlašování uživatelů, tvorba a úpravy časopisu, tvorba inzerátů, čtení časopisu (mohou i nepřihlášení uživatelé)</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-e44b1e3e8cfb49bda4c08c3cda3a7b13" archimateElement="id-0d54a26df48642d8a840fdb3e6ea6f5b">
+        <bounds x="408" y="228" width="145" height="145"/>
+        <child xsi:type="archimate:Note" id="id-4021eb92dd6a44c1986dbe922e6424bf" textAlignment="1">
+          <bounds x="12" y="36" width="121" height="85"/>
+          <content>jako klíčové funkce jsou považovány přihlašování uživatelů, tvorba a úpravy časopisu, tvorba inzerátů, čtení časopisu (mohou i nepřihlášení uživatelé)</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-86dcdfa7792c45348205bfedc712b6fc" archimateElement="id-608f252197f94f4e8e6a55a6637e47cd">
+        <bounds x="552" y="84" width="169" height="289"/>
+        <child xsi:type="archimate:Note" id="id-4df6b82f40ab4c43ac35688380277127" textAlignment="1">
+          <bounds x="24" y="36" width="121" height="229"/>
+          <content>hodnota je webová aplikace&#xD;
+problém je v emailové komunikaci zákazníků, kterou naše aplikace eliminuje&#xD;
+každému segmentu zákazníků bude dodána webová aplikace &#xD;
+jsou uspokojovány  potřeby zákazníků v oblasti komunikace a ostatních služeb spjatých s komunikací, tvobou inzerátů a čtením časopisu</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-62ffb2f486124f0f8f1294090c987f39" archimateElement="id-c28fc2df363a4111b49aae0615bc529d">
+        <bounds x="720" y="240" width="193" height="133"/>
+        <child xsi:type="archimate:Note" id="id-a3019543cf934aa7ad9a6efd03b57fa8" textAlignment="1">
+          <bounds x="24" y="48" width="145" height="73"/>
+          <content>bude dosažen webovou aplikací&#xD;
+propojeny jsou databází</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-e4c155b268a94b58a97b220f86e48994" archimateElement="id-23a3229a249046108e906c4660a52ed7">
+        <bounds x="912" y="84" width="397" height="289"/>
+        <child xsi:type="archimate:DiagramObject" id="id-7176940cd28a4faca14e833612a4911c" archimateElement="id-b5aae53fe2ff41c58bc732fcc40481fe">
+          <bounds x="48" y="48" width="145" height="37"/>
+          <feature name="labelExpression" value="Autor"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c6d30856cef143d2996548f4b905f0da" archimateElement="id-3592cde752ed49519cefdf2236587fa7">
+          <bounds x="48" y="288" width="145" height="37"/>
+          <feature name="labelExpression" value="Administrátor"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f7ffa6b2008e4d26b99e6e0978d60333" archimateElement="id-cf46cba6e6c84e01b9c51f68d6d4f3fb">
+          <bounds x="48" y="96" width="145" height="37"/>
+          <feature name="labelExpression" value="Redaktor"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-df0ce9b552d148c3a70c8759609f5169" archimateElement="id-d215755b92a849b682cb3f48f1fcd32a">
+          <bounds x="48" y="240" width="145" height="37"/>
+          <feature name="labelExpression" value="Čtenář"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a2c5c432094a41aaa7756de95626380d" archimateElement="id-9e576649ed5c4344879f80dd4e2c9346">
+          <bounds x="48" y="144" width="145" height="37"/>
+          <feature name="labelExpression" value="Recenzent"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-39b2dd1454af4697907b68356d51f46a" archimateElement="id-2a9a63e2d0584a8c8c0c8170d31d156b">
+          <bounds x="48" y="192" width="145" height="37"/>
+          <feature name="labelExpression" value="Šéfredaktor"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-6189982563c248e588e20904f6d082bc" textAlignment="1">
+          <bounds x="228" y="48" width="145" height="217"/>
+          <content>aplikace je tvořena pro tvůrce inzerátů do časopisu, pro vedení časopisu a pro čtenáře časopisu&#xD;
+nejdůležitější zákazníci jsou vedení časopisu a tvůrci obsahu časopisu</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-c8d8fc67a8fa416298c194943f328e10" archimateElement="id-67fe7a3ebc2144a287be7f59c0b0a061">
+        <bounds x="720" y="372" width="589" height="85"/>
+        <child xsi:type="archimate:Note" id="id-3eeb7442d7ef4500a7746f6da70b14e2" textAlignment="1">
+          <bounds x="12" y="36" width="553" height="25"/>
+          <content>náklady nebudou blíže specifikovány a jsou za tvorbu aplikace</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-dee57dbec14645bc96b94ace1a7e0c67" archimateElement="id-2b92391ff8fe4c0fa798d6ceb19d684b">
+        <bounds x="252" y="372" width="469" height="85"/>
+        <child xsi:type="archimate:Note" id="id-05216d7502a3476ca5f064a686a19b4a" textAlignment="1">
+          <bounds x="12" y="36" width="445" height="37"/>
+          <content>cena a další informace spojené s cenou nebudou uváděny&#xD;
+</content>
+        </child>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
